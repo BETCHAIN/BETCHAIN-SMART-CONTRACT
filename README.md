@@ -3,13 +3,13 @@
 Betchain Platform - main repository for testing and deploying smart-contracts.
 
 Smart-contracts are located in `contracts` directory.
-[Populus framework](https://github.com/pipermerriam/populus "populus github repository") was used to compile, deploy and test our smart-contracts.
+[Betchain Framework](https://github.com/BETCHAIN/BETCHAIN-SMART-CONTRACT.git "populus github repository") was used to compile, deploy and test our smart-contracts.
 
 ## download sources
 
 From Linux/OSX console:
 ```
-git clone https://github.com/JoyPlatform/joy-contracts.git
+git clone https://github.com/BETCHAIN/BETCHAIN-SMART-CONTRACT.git
 ```
 
 ## build
@@ -27,8 +27,8 @@ $ populus compile
 ==========================================================================
 > Found 12 contract source files
   - contracts/deposit/PlatformDeposit.sol
-  - contracts/game/JoyGameAbstract.sol
-  - contracts/game/JoyGameDemo.sol
+  - contracts/game/BetchainGameAbstract.sol
+  - contracts/game/BetchainGameDemo.sol
   - contracts/math/SafeMath.sol
   - contracts/ownership/Ownable.sol
   - contracts/token/BasicToken.sol
