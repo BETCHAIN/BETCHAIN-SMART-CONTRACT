@@ -3,7 +3,7 @@
 Betchain Platform - main repository for testing and deploying smart-contracts.
 
 Smart-contracts are located in `contracts` directory.
-[Betchain Framework](https://github.com/BETCHAIN/BETCHAIN-SMART-CONTRACT.git "populus github repository") was used to compile, deploy and test our smart-contracts.
+[Populus Framework](https://github.com/BETCHAIN/BETCHAIN-SMART-CONTRACT.git "populus github repository") was used to compile, deploy and test our smart-contracts.
 
 ## download sources
 
