@@ -1,4 +1,4 @@
-# Betchain-contracts
+# Betchain-Contract
 
 Betchain Platform - main repository for testing and deploying smart-contracts.
 
